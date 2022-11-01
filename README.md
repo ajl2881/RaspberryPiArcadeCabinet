@@ -10,5 +10,5 @@ An arcade cabinet built by WiC's project comittee that uses [RetroPie](https://r
 ### WiC Arcade Table User Guide
 This file consists of directions to follow to aid in the configuration of the arcade cabinet and games on it. It includes directions on volume, adding and removing games, configuring the buttons, and general daily tasks.
 
-### Technical Doc
+### Arcade Cabinet Technical Information
 This document consists of the directions to follow to put together the arcade cabinet. 
